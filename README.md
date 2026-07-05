@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Java](https://img.shields.io/badge/Java-21-orange)
 
-A lightweight, fluent, and extensible Java validation library. Validate any value with built-in or custom rules, collect all error messages at once, and localize messages out of the box — with **zero external dependencies**.
+A lightweight, fluent, and extensible Java validation library. Validate any value with built-in or custom rules, collect all error messages at once, and localize messages out of the box, with **zero external dependencies**.
 
 ```java
 ValidationResult result = Validator.of("user@example.com")
