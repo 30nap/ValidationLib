@@ -159,4 +159,4 @@ Requires JDK 21 (a Gradle toolchain will download one automatically if missing).
 
 ## License
 
-[MIT License](LICENSE) © 2025 Sina
+[MIT License](LICENSE) © 2025 Sina Pezeshki
